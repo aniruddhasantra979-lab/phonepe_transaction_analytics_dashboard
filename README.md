@@ -72,4 +72,6 @@ Loans and Bike Loans are the key growth drivers of the platform. Improving trans
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png.png
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
